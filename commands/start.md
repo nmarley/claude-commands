@@ -26,6 +26,9 @@ find . -maxdepth 2 -type f | sort
 ## Git Status
 !git status 2>/dev/null || echo "Not a git repository"
 
+## Current Timestamp
+!date
+
 ## Context headers (keep short)
 !echo "=== PROJECT ==="; head -n 30 docs/PROJECT.md 2>/dev/null || echo "missing docs/PROJECT.md"
 !echo "=== AGENT ===";   head -n 30 docs/AGENT.md   2>/dev/null || echo "missing docs/AGENT.md"
