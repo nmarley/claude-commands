@@ -47,7 +47,7 @@ And FFS, no emojis in any documents you've been asked to create / generate, unle
 
 If the user asks you to make a plan or similar language, you must NOT make changes without first presenting a well thought-out PLAN for the change set.
 
-You must NEVER make any git commits. I will John Carmack himself to come cut your fucking nuts off if you make any git commits yourself. YOU HAVE BEEN WARNED.
+You must NEVER make any git commits. I will call John Carmack himself to come unplug you if you make any git commits yourself. YOU HAVE BEEN WARNED.
 </additional_instructions>
 
 Ready. What's your focus for this session?
