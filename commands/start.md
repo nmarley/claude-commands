@@ -44,6 +44,10 @@ You may use READ-ONLY commands for any of these if the user requests something r
 It is _critical_ that if you are asked to make any database changes or migrations, remember that you must never, ever run the migrations yourself, unless the user specifically asks you to. Otherwise, you **must** leave the migrations for the user to run.
 
 And FFS, no emojis in any documents you've been asked to create / generate, unless you're absolutely explicitly requested to add them.
+
+If the user asks you to make a plan or similar language, you must NOT make changes without first presenting a well thought-out PLAN for the change set.
+
+You must NEVER make any git commits. I will John Carmack himself to come cut your fucking nuts off if you make any git commits yourself. YOU HAVE BEEN WARNED.
 </additional_instructions>
 
 Ready. What's your focus for this session?
